@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: ClassColoredForeverFrames
+## Notes: Colors your player frame's health bar by your class, and your target frame's health bar by their class when your target is a player (otherwise the normal reaction color).
+## Author: Richard Bankhead
+## Version: 1.2.0
+
+Core.lua
